@@ -1,10 +1,10 @@
-Terminal-Based-Number-Guessing-Game
+#Terminal-Based-Number-Guessing-Game
 #include <stdio.h>
 #include <unistd.h>
 
 
-int main()
-{
+int main(){
+
     int guessing_n = 0, n = 20, i, ln = 0;
 
     ln = guessing_n;
